@@ -18,6 +18,15 @@
     ]
   },
   {
+    "slug": "9/quadratics/irrational-roots",
+    "title": "The formula with irrational roots",
+    "kinds": [
+      "handout",
+      "worksheet",
+      "key"
+    ]
+  },
+  {
     "slug": "9/quadratics/quadratic-formula",
     "title": "The quadratic formula",
     "kinds": [
@@ -38,6 +47,15 @@
   {
     "slug": "lt/9/quadratics/completing-the-square",
     "title": "Lygties sprendimas išskiriant dvinario kvadratą",
+    "kinds": [
+      "handout",
+      "worksheet",
+      "key"
+    ]
+  },
+  {
+    "slug": "lt/9/quadratics/irrational-roots",
+    "title": "Sprendinių formulė, kai sprendiniai iracionalieji",
     "kinds": [
       "handout",
       "worksheet",
