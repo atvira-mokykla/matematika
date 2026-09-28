@@ -9,6 +9,15 @@
     ]
   },
   {
+    "slug": "9/quadratics/completing-the-square",
+    "title": "Solving by completing the square",
+    "kinds": [
+      "handout",
+      "worksheet",
+      "key"
+    ]
+  },
+  {
     "slug": "9/quadratics/quadratic-formula",
     "title": "The quadratic formula",
     "kinds": [
@@ -20,6 +29,15 @@
   {
     "slug": "9/quadratics/what-we-can-solve",
     "title": "Quadratic equations: what we can already solve",
+    "kinds": [
+      "handout",
+      "worksheet",
+      "key"
+    ]
+  },
+  {
+    "slug": "lt/9/quadratics/completing-the-square",
+    "title": "Lygties sprendimas išskiriant dvinario kvadratą",
     "kinds": [
       "handout",
       "worksheet",
