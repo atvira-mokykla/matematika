@@ -18,8 +18,26 @@
     ]
   },
   {
+    "slug": "9/quadratics/what-we-can-solve",
+    "title": "Quadratic equations: what we can already solve",
+    "kinds": [
+      "handout",
+      "worksheet",
+      "key"
+    ]
+  },
+  {
     "slug": "lt/9/quadratics/quadratic-formula",
     "title": "Kvadratinės lygties sprendinių formulė",
+    "kinds": [
+      "handout",
+      "worksheet",
+      "key"
+    ]
+  },
+  {
+    "slug": "lt/9/quadratics/what-we-can-solve",
+    "title": "Kvadratinės lygtys: ką jau mokame išspręsti",
     "kinds": [
       "handout",
       "worksheet",
